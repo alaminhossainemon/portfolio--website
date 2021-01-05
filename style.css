@@ -1,9 +1,10 @@
 body{
-
     font-family: 'Oswald', sans-serif;
-
-.name highlight{
-    color:rgb(129, 76, 76);
+    
+}
+.name-color{
+    color:rgb(172, 94, 94);
+    font-weight: 600;
+    
 
 }
-
